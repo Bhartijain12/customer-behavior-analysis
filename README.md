@@ -31,4 +31,4 @@ This project aims to analyze customer shopping data to identify trends across de
 6. Insights and recommendations  
 
 ## Project Status
-🚧 In Progress (Started: 13 Dec)
+ In Progress (Started: 13 Dec)
