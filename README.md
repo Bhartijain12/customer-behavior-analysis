@@ -76,7 +76,7 @@ PostgreSQL was used to answer key business questions, including:
 
 ---
 
-##  Key SQL Insights (Highlighted)
+##  Key SQL Insights 
 
 * **Subscription Impact:**
   Average purchase value is similar for subscribed and non-subscribed customers, indicating subscriptions currently support retention rather than higher transaction size.
