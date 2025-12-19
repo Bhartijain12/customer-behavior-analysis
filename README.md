@@ -87,7 +87,7 @@ PostgreSQL was used to answer key business questions, including:
 * **Age-Based Revenue:**
   Customers aged **26–35** contribute the highest share of revenue, making them a priority target segment.
 
-
+---
 
 ##  Power BI Dashboard
 
@@ -103,6 +103,7 @@ An interactive dashboard was created in **Power BI** to visualize insights.
 
 The dashboard focuses on **clarity, minimalism, and business relevance**, avoiding unnecessary visuals.
 
+---
 
 ## Business Recommendations
 
@@ -112,12 +113,16 @@ The dashboard focuses on **clarity, minimalism, and business relevance**, avoidi
 * **Product Promotion:** Highlight top-performing and frequently purchased products.
 * **Targeted Marketing:** Prioritize high-revenue age groups for campaigns.
 
+---
+
 ## 🛠 Tools & Technologies
 
 * **Python:** pandas, numpy
 * **SQL:** PostgreSQL
 * **Visualization:** Power BI
 * **Version Control:** Git & GitHub
+
+---
 
 ##  Project Status
 
