@@ -115,7 +115,7 @@ The dashboard focuses on **clarity, minimalism, and business relevance**, avoidi
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Python:** pandas, numpy
 * **SQL:** PostgreSQL
